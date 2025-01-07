@@ -1,10 +1,9 @@
-import BaiTap from "./BaiTapLayoutComponent";
+import Glass from "./GlassApp";
 
 function App() {
-
   return (
     <>
-      <BaiTap />
+      <Glass />
     </>
   )
 }
